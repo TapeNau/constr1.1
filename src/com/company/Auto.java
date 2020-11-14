@@ -1,0 +1,15 @@
+package com.company;
+
+public abstract class Auto {
+    public String modelTitle;
+    public Auto(String modelTitle) {
+        this.modelTitle = modelTitle;
+    }
+    public abstract void Accept(Visitor visitor);
+    public String getModelTitle() {
+        return modelTitle;
+    }
+    public void setModelTitle(String modelTitle) {
+        this.modelTitle = modelTitle;
+    }
+}
