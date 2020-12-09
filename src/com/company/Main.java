@@ -1,7 +1,9 @@
 package com.company;
 
 import java.util.ArrayList;
-
+/*
+Основна точка входу в програму
+*/
 public class Main {
 
     public static void main(String[] args) {
