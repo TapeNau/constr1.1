@@ -1,7 +1,9 @@
 package com.company;
 //імпорт бібліотеки java.util.ArrayList
 import java.util.ArrayList;
-//основна точка входу
+/*
+Основна точка входу в програму
+*/
 public class Main {
 
     public static void main(String[] args) {
