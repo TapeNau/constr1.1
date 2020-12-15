@@ -1,5 +1,5 @@
 package com.company;
-
+//імпорт бібліотеки java.util.ArrayList
 import java.util.ArrayList;
 /*
 Основна точка входу в програму
